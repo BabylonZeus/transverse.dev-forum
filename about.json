@@ -1,0 +1,34 @@
+{
+  "name": "Forum Transverse Theme",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "network": "assets/network.png",
+    "banniere15": "assets/banniere15.png",
+    "Vision": "assets/Vision.pdf",
+    "banniere13": "assets/banniere13.png",
+    "bandegrade2": "assets/bandegrade2.png",
+    "bannieremob3": "assets/bannieremob3.png",
+    "banniere12": "assets/banniere12.png"
+  },
+  "color_schemes": {
+    "Nuances de bleu": {
+      "primary": "203243",
+      "secondary": "eef4f7",
+      "tertiary": "416376",
+      "quaternary": "5e99b9",
+      "header_background": "28445b",
+      "header_primary": "ffffff",
+      "highlight": "86bddb",
+      "danger": "bf3c3c",
+      "success": "70db82",
+      "love": "ef1488"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
