@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300');
+
+body {
+        font-family: 'Ubuntu';
+    }
+h1 {
+    font-family: 'Ubuntu';
+}
+
+/*.sitebanniere-desktop {
+    background-image: url(https://forum.transverse.dev/uploads/default/original/1X/6483ed543b34425342c8fd8dd54e1a985728101d.png);
+    width: 1110px;
+    height: 233px;
+    display: block;
+}
+
+.sitebanniere-mobile {
+    background-image: url(https://forum.transverse.dev/uploads/default/original/1X/bbfa08e2443c9824a07bf8b85b985d1b67910271.png);
+    width: 100%;
+    height: 364px;
+    display: block;
+}*/
+
+#main-outlet {
+    padding-top: 7.0em;
+}
+.d-header #site-logo {
+  max-height: 100px;
+  height: 5.5em;
+}
+.d-header {
+    height: 100px;
+}
+.column.categories { max-width: 66%; }
+.column { max-width: 34%; }
+
+.category-logo.aspect-image {
+    --max-height: 100px;
+}
+#banner {
+    background-color: #ff7070;
+}
+#suggested-topics {
+    border-top: solid;
+    border-color: #86a7db;
+    background-color: #dae3e8;
+}
+.topic-post {
+    border: solid;
+    border-color: #c8d5db;
+    background-color: #e6f0f5;
+}
+#topic-footer-buttons {
+    padding-bottom: 13em;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.arrondi1 {
+    border-radius: 600px 0 0 0;
+}
+
+.arrondi2 {
+    border-radius: 0 600px 0 0;
+}
+
+
+a {
+   color:#2C66BE;
+
+
+}
+
+
+a:link {
+   color:#2C66BE;
+    
+    
+}
+
+a:visited {
+    color:#2C66BE;
+    
+
+}
+
+a:focus {
+    color:#ff4500;
+  
+
+}
+
+a:hover {
+    color:#228b22;
+  
+}
+
+a:active {
+    color:#ff0000;
+    
+}
